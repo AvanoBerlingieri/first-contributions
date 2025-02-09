@@ -2518,6 +2518,7 @@
 - [Hubert](https://github.com/hubertmilewski)
 - [Jian Yang](https://github.com/HARRY-JUSTHARRY)
 - [Hotflower](https://github.com/HotFlower9167)
+- Avano Berlingieri
 - [BILLSARAN](https://github.com/BILLSARAN)
 - [Simanta](https://github.com/simanta1001)
 - [Girish Kumar Yadav](https://github.com/Girisssh)
